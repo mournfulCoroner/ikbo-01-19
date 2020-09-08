@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="954555f6-19ac-4ac6-aef9-7d6998cad2b3" name="Default Changelist" comment="" />
+    <list default="true" id="a547cde3-40b5-41be-b0c8-a895a4311b02" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -18,11 +18,8 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
-  <component name="ProjectId" id="1h5hGxoX1uCDU4iN4X7z12U2fGG" />
+  <component name="ProjectId" id="1hDVHa6bifoISq3tzKpESk7SkZu" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
-  <component name="PropertiesComponent">
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-  </component>
   <component name="RunDashboard">
     <option name="ruleStates">
       <list>
@@ -35,25 +32,17 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.TestBall">
-    <configuration name="TestAuthor" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="TestAuthor" />
-      <module name="practice2 - Леутина" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="TestBall" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="TestBall" />
-      <module name="practice2 - Леутина" />
+  <component name="RunManager">
+    <configuration name="TestBook" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="TestBook" />
+      <module name="lab2 - Леутина" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.TestBall" />
-        <item itemvalue="Application.TestAuthor" />
+        <item itemvalue="Application.TestBook" />
       </list>
     </recent_temporary>
   </component>
@@ -62,11 +51,11 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="954555f6-19ac-4ac6-aef9-7d6998cad2b3" name="Default Changelist" comment="" />
-      <created>1599306768545</created>
+      <changelist id="a547cde3-40b5-41be-b0c8-a895a4311b02" name="Default Changelist" comment="" />
+      <created>1599545562530</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1599306768545</updated>
+      <updated>1599545562530</updated>
     </task>
     <servers />
   </component>
@@ -75,9 +64,7 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State>
-              <option name="COLUMN_ORDER" />
-            </State>
+            <State />
           </value>
         </entry>
       </map>
