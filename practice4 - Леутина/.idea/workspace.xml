@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="798a46a9-c2d6-4955-9c72-9fa24a8d160b" name="Default Changelist" comment="" />
+    <list default="true" id="57b4abcc-3ba7-475f-ab68-39cf1e8da4e6" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -18,10 +18,10 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
-  <component name="ProjectId" id="1hDXeGOFOEVoRPConvu7FVf9ZNE" />
+  <component name="ProjectId" id="1hMhXaBGNCL6s4tNqYBaw5EqBxl" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../lab1 - Леутина" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -36,16 +36,16 @@
     </option>
   </component>
   <component name="RunManager">
-    <configuration name="TestDish" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="TestDish" />
-      <module name="lab3 - Леутина" />
+    <configuration name="MilanMadrid" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="MilanMadrid" />
+      <module name="practice4 - Леутина" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.TestDish" />
+        <item itemvalue="Application.MilanMadrid" />
       </list>
     </recent_temporary>
   </component>
@@ -54,11 +54,11 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="798a46a9-c2d6-4955-9c72-9fa24a8d160b" name="Default Changelist" comment="" />
-      <created>1599546729113</created>
+      <changelist id="57b4abcc-3ba7-475f-ab68-39cf1e8da4e6" name="Default Changelist" comment="" />
+      <created>1599826908943</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1599546729113</updated>
+      <updated>1599826908943</updated>
     </task>
     <servers />
   </component>
