@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="2e8a5549-3583-4364-941b-667241ebbfc6" name="Default Changelist" comment="" />
+    <list default="true" id="0d81a63e-1497-42a0-887f-1cb9721bf00e" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -19,11 +19,8 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
-  <component name="ProjectId" id="1h5jEgv7LEXTePobBsMobDJHkk6" />
+  <component name="ProjectId" id="1hcw3tEgcpV9IwZZPNt64ZVNy2A" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
-  <component name="PropertiesComponent">
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../practice5 - Леутина" />
-  </component>
   <component name="RunDashboard">
     <option name="ruleStates">
       <list>
@@ -37,16 +34,16 @@
     </option>
   </component>
   <component name="RunManager">
-    <configuration name="TestShape" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="TestShape" />
-      <module name="practice3 - Леутина" />
+    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Test" />
+      <module name="lab4 - Леутина" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.TestShape" />
+        <item itemvalue="Application.Test" />
       </list>
     </recent_temporary>
   </component>
@@ -55,11 +52,11 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="2e8a5549-3583-4364-941b-667241ebbfc6" name="Default Changelist" comment="" />
-      <created>1599307736336</created>
+      <changelist id="0d81a63e-1497-42a0-887f-1cb9721bf00e" name="Default Changelist" comment="" />
+      <created>1600323494399</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1599307736336</updated>
+      <updated>1600323494399</updated>
     </task>
     <servers />
   </component>
@@ -68,9 +65,7 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State>
-              <option name="COLUMN_ORDER" />
-            </State>
+            <State />
           </value>
         </entry>
       </map>
