@@ -2,7 +2,8 @@
 import javax.swing.*;
 import javax.swing.JFrame;
 import javax.swing.JLabel;
-
+/*3. Создать окно, реализовать анимацию, с помощью картинки,
+состоящей из нескольких кадров.*/
 public class Main extends JFrame {
 
     ImageIcon[] anim = new ImageIcon[4];
