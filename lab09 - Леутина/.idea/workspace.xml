@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="0d81a63e-1497-42a0-887f-1cb9721bf00e" name="Default Changelist" comment="" />
+    <list default="true" id="6b3f3c9f-9483-4c5c-8698-8cf551ab9c28" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -11,7 +11,6 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
@@ -19,10 +18,10 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
-  <component name="ProjectId" id="1hcw3tEgcpV9IwZZPNt64ZVNy2A" />
+  <component name="ProjectId" id="1i67ijV5pLrGDCSEpyiHv9O3vra" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../practice5 - Леутина" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../lab10 - Леутина" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -36,17 +35,33 @@
       </list>
     </option>
   </component>
-  <component name="RunManager">
-    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Test" />
-      <module name="lab4 - Леутина" />
+  <component name="RunManager" selected="Application.z7">
+    <configuration name="ThrowsDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ThrowsDemo" />
+      <module name="lab09 - Леутина" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="z6" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="z6" />
+      <module name="lab09 - Леутина" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="z7" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="z7" />
+      <module name="lab09 - Леутина" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Test" />
+        <item itemvalue="Application.z7" />
+        <item itemvalue="Application.z6" />
+        <item itemvalue="Application.ThrowsDemo" />
       </list>
     </recent_temporary>
   </component>
@@ -55,11 +70,11 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="0d81a63e-1497-42a0-887f-1cb9721bf00e" name="Default Changelist" comment="" />
-      <created>1600323494399</created>
+      <changelist id="6b3f3c9f-9483-4c5c-8698-8cf551ab9c28" name="Default Changelist" comment="" />
+      <created>1601216316780</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1600323494399</updated>
+      <updated>1601216316780</updated>
     </task>
     <servers />
   </component>
