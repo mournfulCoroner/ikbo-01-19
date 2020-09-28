@@ -27,12 +27,12 @@ class MilanMadrid extends JFrame {
     MilanMadrid() {
         super("Example");
         setLayout(new BorderLayout());
-        setSize(380, 300);
+        setSize(400, 300);
 
         last.setFont(fnt);
         winner.setFont(fnt);
         result.setFont(fnt);
-        winner.setAlignment(1);
+        winner.setAlignment(Label.CENTER);
 
         pnl.add(last);
         pnl.add(result);
@@ -48,6 +48,7 @@ class MilanMadrid extends JFrame {
                 milScore++;
                 last.setText("Last Scorer: " + "AC Milan");
                 setScore();
+
             }
         });
         madrid.addActionListener(new ActionListener() {

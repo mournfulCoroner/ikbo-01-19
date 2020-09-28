@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="0743fb2b-1639-4332-9c56-db40f9e4a732" name="Default Changelist" comment="" />
+    <list default="true" id="273f5476-45ca-42c9-be95-49b8e86af266" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -11,6 +11,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
@@ -18,10 +19,15 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
-  <component name="ProjectId" id="1hPG7KqJv1965pND9aotrAWwMNT" />
+  <component name="ProjectId" id="1i3XMkABffe1tdgJItUek6d4L01" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../lab7 - Леутина" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../practice9 - Леутина" />
+  </component>
+  <component name="RecentsManager">
+    <key name="ExtractSuperBase.RECENT_KEYS">
+      <recent name="" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -35,30 +41,16 @@
       </list>
     </option>
   </component>
-  <component name="RunManager">
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Main" />
-      <module name="practice7 - Леутина" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <recent_temporary>
-      <list>
-        <item itemvalue="Application.Main" />
-      </list>
-    </recent_temporary>
-  </component>
   <component name="SvnConfiguration">
     <configuration />
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="0743fb2b-1639-4332-9c56-db40f9e4a732" name="Default Changelist" comment="" />
-      <created>1599905145051</created>
+      <changelist id="273f5476-45ca-42c9-be95-49b8e86af266" name="Default Changelist" comment="" />
+      <created>1601137203498</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1599905145051</updated>
+      <updated>1601137203498</updated>
     </task>
     <servers />
   </component>
